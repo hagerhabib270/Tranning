@@ -11,7 +11,7 @@ name4 = "huda hamdy eldeb"
 id_name4 =2320721
 print("الاسم:" name4)
 print("ID:", id_number4)
-name6 = "hager taha"
-id_number6 = 2320712
-print("الاسم:", name6)
-print("ID:", id_number6)
+name5 = "hager taha"
+id_number5 = 2320712
+print("الاسم:", name5)
+print("ID:", id_number5)
